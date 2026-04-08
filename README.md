@@ -33,7 +33,7 @@ Ask career/interview-related questions and get AI-generated answers instantly.
 - **Python**
 - **Streamlit** – Frontend/UI
 - **Ollama** – Local LLM Runtime
-- **Mistral / Phi** – Lightweight LLM Models
+- **Mistral 
 - **PyPDF** – Resume PDF Parsing
 
 ---
