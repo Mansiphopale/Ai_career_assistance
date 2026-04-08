@@ -38,6 +38,17 @@ Ask career/interview-related questions and get AI-generated answers instantly.
 
 ---
 
+## 🖼️ Application Preview
+
+### Home Interface
+![Home UI](screenshots/home.png)
+
+---
+
+### AI Response Example
+![Output UI](screenshots/output.png)
+
+
 ## 📂 Project Structure
 
 ```bash
